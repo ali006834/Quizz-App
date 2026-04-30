@@ -2,6 +2,18 @@
 
 Bu projeyi ben, temel React ve TypeScript mantığını öğrenmek için yaptım. Amacım, quiz adımlarını kendi kodumla yazarken hem komponent yapısını hem de durum yönetimini (`useState`) pekiştirmekti.
 
+## Proje Canlıda
+- Proje Vercel üzerinde canlıya alındı.
+- Canlı URL: https://quizz-app-sand-six.vercel.app/
+- Vercel deploy adresi: quizz-c3v1jfp6k-ali-nacis-projects.vercel.app
+
+## Projenin Amacı
+Bu proje, quiz uygulaması geliştirme pratiği yaparken şu konuları öğrenmek için hazırlandı:
+- Tek sayfa uygulama (SPA) mantığıyla sorular arasında gezinme.
+- Seçeneklere tıklayınca doğru/yanlış kontrolü ve puan hesaplama.
+- `Next.js` + `TypeScript` kullanarak modern frontend uygulaması oluşturma.
+- Basit bir kullanıcı arayüzü ile quiz akışını yönetme.
+
 ## Neden bu projeyi yaptım?
 - Frontend tarafında `Next.js` ve `TypeScript` ile pratik yapmak istedim.
 - Soruların ekranı, seçeneklerin listelenmesi ve doğru cevabın kontrolü gibi temel adımları yönetmek için iyi bir alıştırma oldu.
