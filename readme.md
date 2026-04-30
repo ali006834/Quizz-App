@@ -1,4 +1,4 @@
-# Basit Quiz App
+# Quiz App
 
 Bu projeyi ben, temel React ve TypeScript mantığını öğrenmek için yaptım. Amacım, quiz adımlarını kendi kodumla yazarken hem komponent yapısını hem de durum yönetimini (`useState`) pekiştirmekti.
 
